@@ -17,8 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shripad-jagtap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shripad-jagtap" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shripad-jagtap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shripad-jagtap" height="30" width="40" /></a>
 <a href="https://instagram.com/69shripad420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="69shripad420" height="30" width="40" /></a>
+<a href="https://discord.gg/SL1Mshady#4321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SL1Mshady#4321" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
